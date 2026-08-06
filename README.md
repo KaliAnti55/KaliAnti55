@@ -64,13 +64,6 @@
 ### 📊 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaliAnti55&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=61DAFB&icon_color=61DAFB" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaliAnti55&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaliAnti55&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB" width="97%" />
 </div>
 
