@@ -9,7 +9,7 @@
     <strong>Crafting high-performance web applications, modern interfaces, and intelligent backends.</strong>
   </p>
 
-  <!-- Glowing Badges / Quick Status -->
+  <!-- Glowing Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F5D4?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-7B2CBF?style=for-the-badge&logoColor=white" />
@@ -61,9 +61,17 @@
 
 ---
 
-### 📊 Analytics & Activity
+### 📊 Real-Time Contribution Activity & Multi-Year Grid
 
 <div align="center">
+  <!-- Live GitHub Activity Chart -->
+  <img src="https://ghchart.rshah.org/KaliAnti55" alt="Saymon's Real-Time Github Contribution Chart" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Activity Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaliAnti55&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB" width="97%" />
 </div>
 
